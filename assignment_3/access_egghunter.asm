@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 ; access_egghunter.asm
 ; Author: German Namestnikov
+=======
+; linux x86 Egg Hunter using access (35 bytes)
+; Egg size: 8 bytes
+>>>>>>> c18d4cda1f15f7698f05cba09f66df3d30f77e0a
  
 global _start
  
