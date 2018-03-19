@@ -29,3 +29,9 @@ __Assignment 1__
 > Port number should be easily configurable.
 
 Read more [here](https://illegalbytes.com/2018-03-17/slae-assignment-1-tcp-bind-shell).
+
+__Assignment 2__
+> Create a Shell_Reverse_TCP shellcode that reverse connects to conﬁgured IP and Port	and execs shell on successful connection.	
+> IP and Port should be easily conﬁgurable.
+
+Read more [here](https://illegalbytes.com/2018-03-18/slae-assignment-2-tcp-reverse-shell)
