@@ -35,3 +35,10 @@ __Assignment 2__
 > IP and Port should be easily conﬁgurable.
 
 Read more [here](https://illegalbytes.com/2018-03-18/slae-assignment-2-tcp-reverse-shell)
+
+__Assignment 3__
+> Study about the Egg Hunter shellcode and create a working demo of the Egghunter.
+> Should be configurable for different payloads.
+
+Read more [here](https://illegalbytes.com/2018-03-20/slae-assignment-3-linux-x86-egghunting)
+
