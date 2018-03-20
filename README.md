@@ -46,3 +46,16 @@ __Assignment 3__
 
 Read more [here](https://illegalbytes.com/2018-03-20/slae-assignment-3-linux-x86-egghunting)
 
+## Hacks
+__XOR Encoder__
+
+Allow you to perform xor encoding of your shellcode to avoid bad characters. It will find XOR key for you, just run it with this command:
+
+~~~
+german@slae-lab:~/shellcoding/encoder$ python xor-encoder.py "\xcc\xcc\x00" "\x00"
+
+Suitable key found: \x01
+Encoded: "\xeb\x0d\x5e\x31\xc9\xb1\x03\x80\x36\x01\x46\xe2\xfa\xeb\x05\xe8\xee\xff\xff\xff\xcd\xcd\x01"
+~~~
+
+Also, there is decoder asm file. You can try to optimize it, but don't forget to change decoder shellcode in the python script
