@@ -23,6 +23,10 @@ assignment_1  bind_shell  bind_shell.executor  make.sh  README.md
 * 'bind_shell' - translated, compiled and linked nasm code (shellcode itself).
 * 'bind_shell.executor' - specially crafted binary that changes its execution flow to run your shellcode.
 
+__This won't work for egg hunting shellcodes!__
+
+Please, use custom executors I store in assignment_3 folder.
+
 ## Code
 __Assignment 1__
 > Create a Bind TCP Shell shellcode that binds to a port and executes shell on incoming connection.
