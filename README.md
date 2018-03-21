@@ -25,7 +25,7 @@ assignment_1  bind_shell  bind_shell.executor  make.sh  README.md
 
 __This will work only for two first assignments (bind_tcp and reverse_tcp shellcodes).__
 
-Please, use custom executors I store in assignment_3 folder.
+In other cases, please, use custom executors I store in assignments folders.
 
 ## Code
 __Assignment 1__
