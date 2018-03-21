@@ -23,7 +23,7 @@ assignment_1  bind_shell  bind_shell.executor  make.sh  README.md
 * 'bind_shell' - translated, compiled and linked nasm code (shellcode itself).
 * 'bind_shell.executor' - specially crafted binary that changes its execution flow to run your shellcode.
 
-__This won't work for egg hunting shellcodes!__
+__This will work only for two first assignments (bind_tcp and reverse_tcp shellcodes).__
 
 Please, use custom executors I store in assignment_3 folder.
 
@@ -45,6 +45,19 @@ __Assignment 3__
 > Should be configurable for different payloads.
 
 Read more [here](https://illegalbytes.com/2018-03-20/slae-assignment-3-linux-x86-egghunting)
+
+__Assignment 4__
+> Create a custom encoding scheme like the "Insertion Encoder".
+> PoC with using execve-stack as the shellcode to encode with your schema and execute.
+
+Read more [here](https://illegalbytes.com/2018-03-20/slae-assignment-4-custom-encoding-schema)
+
+__Assignment 5__
+> Take up at least 3 shellcode samples created using Msfpayload for linux/x86.
+> Use GDB/Ndisasm/Libemu to dissect the functionality of the shellcode.
+> Present your analysis.
+
+Read more [here](https://illegalbytes.com/2018-03-21/slae-assignment-5-dissecting-metasploit-payloads)
 
 ## Hacks
 __XOR Encoder__
