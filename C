@@ -1,9 +1,0 @@
-__TL;DR:__ Final shellcode is <a href="#result">__here__</a>
-
-
-<a name="result"></a> 
-
-
-
-
-
