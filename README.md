@@ -59,6 +59,13 @@ __Assignment 5__
 
 Read more [here](https://illegalbytes.com/2018-03-21/slae-assignment-5-dissecting-metasploit-payloads)
 
+__Assignment 6__
+> Take up 3 shellcodes from Shell-Storm and create polymorphic versions of them to beat pattern matching.
+> The polymorphic versions cannot be larger 150% of the existing shellcode.
+> Bonus points for making it shorter in length than original.
+
+Read more [here](https://illegalbytes.com/2018-03-23/slae-assignment-6-polymorphic-shellcodes)
+
 ## Hacks
 __XOR Encoder__
 
