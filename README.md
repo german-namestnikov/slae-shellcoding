@@ -23,7 +23,7 @@ assignment_1  bind_shell  bind_shell.executor  make.sh  README.md
 * 'bind_shell' - translated, compiled and linked nasm code (shellcode itself).
 * 'bind_shell.executor' - specially crafted binary that changes its execution flow to run your shellcode.
 
-__This will work only for two first assignments (bind_tcp and reverse_tcp shellcodes).__
+__This will work only for two first assignments (bind_tcp and reverse_tcp shellcodes, also works for assignment #6).__
 
 In other cases, please, use custom executors I store in assignments folders.
 
