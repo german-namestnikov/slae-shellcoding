@@ -66,6 +66,13 @@ __Assignment 6__
 
 Read more [here](https://illegalbytes.com/2018-03-23/slae-assignment-6-polymorphic-shellcodes)
 
+__Assignment 7__
+> Create a custom crypter like the one shown in the "crypters" video.
+> Free to use any existing encryption schema.
+> Can use any programming language.
+
+Read more [here](https://illegalbytes.com/2018-03-25/slae-assignment-7-encrypt-your-shellcode)
+
 ## Hacks
 __XOR Encoder__
 
