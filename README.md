@@ -85,4 +85,7 @@ Suitable key found: \x01
 Encoded: "\xeb\x0d\x5e\x31\xc9\xb1\x03\x80\x36\x01\x46\xe2\xfa\xeb\x05\xe8\xee\xff\xff\xff\xcd\xcd\x01"
 ~~~
 
-Also, there is decoder asm file. You can try to optimize it, but don't forget to change decoder shellcode in the python script
+Also, there is decoder asm file. You can try to optimize it, but don't forget to change decoder shellcode in the python script.
+
+__MBR Shellcode___
+Source files and generator script for the shellcode that rewrites MBR of /dev/sda to print extorting message.
