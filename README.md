@@ -90,3 +90,7 @@ Also, there is decoder asm file. You can try to optimize it, but don't forget to
 __MBR Shellcode__
 
 Source files and generator script for the shellcode that rewrites MBR of /dev/sda to print extorting message.
+
+Read more: https://illegalbytes.com/2018-04-02/ransomware-shellcode
+
+Demo: https://youtu.be/ilunMsJflcw
